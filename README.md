@@ -11,4 +11,9 @@
 <br />
 
 
+<img align="center" alt="mhwahdan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhwahdan&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhwahdan&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="mhwahdan's streak status" /></p>
+
+
 [linkedin]: https://www.linkedin.com/in/moustafa-wahdan-474820192/
