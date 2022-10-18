@@ -6,6 +6,9 @@
 - 🌱 learning devOPS and cyber security
 - 📨 moustafawahdan55@gmail.com
 - ⚡ Fun fact: I make the code that runs only on the developer's computer run on the client computer
+<br>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=410c8e374b98&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ### How to contact me:
 
