@@ -1,18 +1,19 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+HLOS+Engineer+at+valeo;Computer+Engineering+Major;%20HLOS%20|%20Embedded%20Linux%20Enthusiastic;Always%20trying%20my%20best&center=true&width=500&height=80"></a>
+</p>
 
-## Software engineer, student and computer enthausiast
-- 💻 currently working as a full stack web devloper
+- 💻 currently working as an embedded high level OS engineer at [Valeo]
 - 🏠 Living in Cairo, Egypt
-- 🌱 learning devOPS and cyber security
+- 🌱 learning embedded systems, Linux, QNX and other HLOS
 - 📨 moustafawahdan55@gmail.com
-- ⚡ Fun fact: I make the code that runs only on the developer's computer run on the client computer
+- ⚡ Fun fact: Crafting the future, one kernel at a time. Embedded Linux engineer by day, code wizard by night.
 <br>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=410c8e374b98&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ### How to contact me:
 
-[<img align="left" alt="karimkohel | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="mwahdan | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 ![](https://dcbadge.vercel.app/api/shield/807987398364758066)
 <br />
 
@@ -42,3 +43,5 @@
 </h1>
 
 [linkedin]: https://www.linkedin.com/in/moustafa-wahdan-474820192/
+
+[Valeo]: https://www.linkedin.com/in/moustafa-wahdan-474820192/](https://www.valeo.com/en/
